@@ -1,0 +1,15 @@
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\bin\Debug\EntityFramework.dll
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\bin\Debug\EntityFramework.xml
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Ela\Desktop\an II\modul II\Medii si instrumente de programare\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
